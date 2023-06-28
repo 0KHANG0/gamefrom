@@ -1,0 +1,40 @@
+D:\c#\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.exe
+D:\c#\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.deps.json
+D:\c#\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.runtimeconfig.json
+D:\c#\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.dll
+D:\c#\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.pdb
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.csproj.AssemblyReference.cache
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.csproj.GenerateResource.cache
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.AssemblyInfoInputs.cache
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.AssemblyInfo.cs
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.csproj.CoreCompileInputs.cache
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.dll
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\refint\DoAnGame.dll
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.pdb
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.genruntimeconfig.cache
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\ref\DoAnGame.dll
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.StrMenu.resources
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.Play.resources
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.RuleForm.resources
+D:\c#\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.Properties.Resources.resources
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.exe
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.deps.json
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.runtimeconfig.json
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.dll
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\bin\Debug\net6.0-windows\DoAnGame.pdb
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.StrMenu.resources
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.Play.resources
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.RuleForm.resources
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.Properties.Resources.resources
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.csproj.GenerateResource.cache
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.AssemblyInfoInputs.cache
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.AssemblyInfo.cs
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.dll
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\refint\DoAnGame.dll
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.pdb
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\DoAnGame.genruntimeconfig.cache
+D:\Tài liệu học tập\win\DoAnGame\DoAnGame\obj\Debug\net6.0-windows\ref\DoAnGame.dll
